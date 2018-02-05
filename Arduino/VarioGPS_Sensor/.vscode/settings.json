@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/bittondb/.platformio/penv/bin:/Users/bittondb/.platformio/penv:/Users/bittondb/.rvm/gems/ruby-2.1.3/bin:/Users/bittondb/.rvm/gems/ruby-2.1.3@global/bin:/Users/bittondb/.rvm/rubies/ruby-2.1.3/bin:/usr/local/sbin:/usr/local/opt/php56/bin:/Users/bittondb/.dnx/runtimes/dnx-mono.1.0.0-beta4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/bittondb/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/bittondb/packer:/usr/local/opt/go/libexec/bin:/Users/bittondb/go/bin:/Users/bittondb/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
